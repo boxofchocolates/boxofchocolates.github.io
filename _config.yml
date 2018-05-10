@@ -3,7 +3,7 @@ title: Box of Chocolates
 description: Suman Lal
 cover: assets/images/radhakrishna.jpg
 logo: 
-favicon: assets/images/favicon.png
+favicon: 
 baseurl: "/" # the subpath of your site, e.g. /blog/ or / for root
 url: "http://bofc.ventures/" # the base hostname & protocol for your site
 paginate:	5 # The number of posts to show per page on your homepage
